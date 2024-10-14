@@ -37,11 +37,19 @@ local CodeLibrary = Library(args)
 CodeLibrary:GetCode(function(codes)
     print("Codes List: ", codes)
 end)
-
 -- Fetch the last data update asynchronously
 CodeLibrary:GetDataLastedUpdate(function(lastUpdate)
     print("Last Data Update: ", lastUpdate)
 end)
-
-Here's how to use the library in your Roblox Executor:
+### Usage [Roblox Executor]
+-- Here's how to use the library in your Roblox Executor:
+- requirement
+    <URL> Exmaple https://progameguides.com/roblox/xxxxxxxx/
+```lua
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/SEFLASe32/P1ER/refs/heads/main/client.lua"))({"","<URL> <string>"})
+table.foreach(
+    Library:GetCode(),
+    print
+)
+print(Library:GetDataLastedUpdate())
     
