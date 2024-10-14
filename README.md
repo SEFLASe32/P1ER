@@ -42,9 +42,8 @@ CodeLibrary:GetDataLastedUpdate(function(lastUpdate)
     print("Last Data Update: ", lastUpdate)
 end)
 ```
-### Usage
+### Usage [Roblox Executor]
 
-[Roblox Executor]
 -- Here's how to use the library in your Roblox Executor:
 ## requirement
     1 <URL> Exmaple https://progameguides.com/roblox/xxxxxxxx/
