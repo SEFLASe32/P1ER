@@ -42,3 +42,6 @@ end)
 CodeLibrary:GetDataLastedUpdate(function(lastUpdate)
     print("Last Data Update: ", lastUpdate)
 end)
+
+Here's how to use the library in your Roblox Executor:
+    
