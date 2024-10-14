@@ -46,8 +46,9 @@ end)
 
 [Roblox Executor]
 -- Here's how to use the library in your Roblox Executor:
-- requirement
-    <URL> Exmaple https://progameguides.com/roblox/xxxxxxxx/
+-- requirement
+    1 <URL> Exmaple https://progameguides.com/roblox/xxxxxxxx/
+    2 http_request function
 ```lua
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/SEFLASe32/P1ER/refs/heads/main/client.lua"))({"","<URL> <string>"})
 table.foreach(
