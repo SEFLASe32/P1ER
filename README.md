@@ -14,7 +14,7 @@
 ---
 
 ## 📌 Projects
-- [Lua Code](https://github.com/SEFLASe32/src) – ตัวอย่างสคริปต์ Lua สำหรับผู้เริ่มต้น  
+- [Lua Code](https://github.com/SEFLASe32/src)
 - [Lua Chunk Finder](https://github.com/SEFLASe32/chunk)
 ---
 
